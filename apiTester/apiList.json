@@ -1,7 +1,7 @@
 [
-  ["flf","server","https://avatars.rotur.dev/pnada"],
-  ["flf","CodeNestServer"],
-  ["flf","FactoryGameServer"],
-  ["flf","JobServer"],
-  ["flf","GamblingServer"]
+  ["flf","server",true,"https://avatars.rotur.dev/pnada"],
+  ["flf","CodeNestServer",false],
+  ["flf","FactoryGameServer",false],
+  ["flf","JobServer",false],
+  ["flf","GamblingServer",false]
 ]
