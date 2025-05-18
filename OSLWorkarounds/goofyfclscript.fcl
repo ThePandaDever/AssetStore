@@ -1,0 +1,13 @@
+bool wow(str shock, num shocker) {
+  return shock &&& shocker;
+}
+
+str | num hmmm() {
+  return 3;
+}
+
+void main() {
+  Obj<Arr<num>> myObj = {wow:[4,6,1]};
+  myObj["shocker"] = [5,6,1,5];
+  print(myObj,myObj["wow"]);
+}
